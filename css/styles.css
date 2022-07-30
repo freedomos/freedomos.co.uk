@@ -2754,7 +2754,7 @@ img.u-pull-left {
  *
  * ------------------------------------------------------------------- */
 .s-header {
-    --logo-width : 9.6rem;
+    --logo-width : 16rem;
     z-index      : 100;
     width        : 100%;
     position     : absolute;
@@ -3331,12 +3331,7 @@ img.u-pull-left {
         line-height : var(--vspace-1_25);
     }
 }
-
-@media screen and (max-width: 800px) {
-    .s-intro .counter__time {
-        font-size : 10.4rem;
-    }
-}
+ndex-particles.html
 
 @media screen and (max-width: 600px) {
     .s-intro__content {
@@ -3389,10 +3384,7 @@ img.u-pull-left {
 
 
 /* ===================================================================
- * # INFO
- *
- *
- * ------------------------------------------------------------------- */
+ * # INFOndex-particles.html
 .s-info {
     padding-top    : var(--vspace-5);
     padding-bottom : var(--vspace-4);
